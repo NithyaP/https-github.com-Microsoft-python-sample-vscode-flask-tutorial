@@ -29,6 +29,6 @@ steps:
     pytest
   displayName: 'pytest'
   
-- script: python src/hello.py
+- script: python startup.py
   
 
